@@ -1,0 +1,11 @@
+requirements:
+MVC model:
+Mongo database
+Web Socket
+--
+Wareframe: Login page, Inbox page!!!!
+---
+p-1:
+github.com/learnwithsumit/chat-application
+
+npm i express dotenv ejs mongoose multer cookie-parser express-validator jsonwebtoken bcrypt http-errors 
